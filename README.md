@@ -3,7 +3,7 @@ A tool to clean up your GTA 5 installation folder.
 ## Disclaimer
 I am not responsible for the program working properly and I am not responsible for any damage to your PC, game or account.
 ## How to use
-1. [Download] the executable
+1. [Download](https://github.com/ilyswch/GTA-V-Mod-Removal-Tool/releases) the executable
 
 2. Run as Administrator
 
