@@ -15,3 +15,6 @@ I am not responsible for the script working properly and I am not responsible fo
 2. Run as Administrator
 3. Enter the path of your GTA V Instalaltion (e.g. C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V)
 4. Enjoy your cleaned GTA Folder!
+
+## License
+Apache License 2.0
